@@ -928,7 +928,7 @@
   dependencies:
     "@types/node" "*"
 
-"@types/node@*":
+"@types/node@*", "@types/node@^14.14.34":
   version "14.14.34"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.34.tgz#07935194fc049069a1c56c0c274265abeddf88da"
   integrity sha512-dBPaxocOK6UVyvhbnpFIj2W+S+1cBTkHQbFQfeeJhoKFbzYcVUGHvddeWPSucKATb3F0+pgDq0i6ghEaZjsugA==
@@ -2160,10 +2160,10 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-cep-interface@^0.4.2:
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/cep-interface/-/cep-interface-0.4.4.tgz#5e1998a5c0f7628f076714f95ecc55ca02bbebc2"
-  integrity sha512-VxB/VtdqYAer/C27pX5i0qtNrAGE9fFZMD6CZZagsTpU+CUf/IK1e+Zd1nxGUcFjoi+t1v4sGk7h1PpfXpTPRA==
+cep-interface@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/cep-interface/-/cep-interface-0.6.0.tgz#5f918b3932dc8479d6b9ef35689b24ed0d37cf3a"
+  integrity sha512-5uYvGPJUuYqQ0czO/O6321ZqEx6OULa7IurXk5xM+xpOuqbvjVUyv+c00GUxEEM7iTNGVJXquMb4nd7tXUIWcQ==
 
 cep-packager@0.0.23:
   version "0.0.23"
@@ -6487,10 +6487,10 @@ typedarray@^0.0.6:
   version "6.0.1"
   resolved "https://codeload.github.com/pravdomil/types-for-adobe/tar.gz/006433e3210fdada69525927cccd789496ce95b2"
 
-typescript@^2.8.3:
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
-  integrity sha512-Gr4p6nFNaoufRIY4NMdpQRNmgxVIGMs4Fcu/ujdYk3nAZqk7supzBE9idmvfZIlH/Cuj//dvi+019qEue9lV0w==
+typescript@^4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.3.tgz#39062d8019912d43726298f09493d598048c1ce3"
+  integrity sha512-qOcYwxaByStAWrBf4x0fibwZvMRG+r4cQoTjbPtUlrWjBHbmCAww1i448U0GJ+3cNNEtebDteo/cHOR3xJ4wEw==
 
 unbox-primitive@^1.0.0:
   version "1.0.0"
