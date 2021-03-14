@@ -36,14 +36,14 @@
     "pino": "^6.11.2"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.12.13",
     "@types/fs-extra": "^9.0.0",
     "@types/node": "^14.14.34",
     "@types/pino": "^6.3.6",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.2",
-    "babel-preset-cep": "^0.0.3",
-    "babel-preset-extendscript": "^1.0.2",
-    "babel-preset-react": "^6.24.1",
+    "babel-preset-cep": "https://github.com/kennethormandy/babel-preset-cep#ko-babel-7",
+    "babel-preset-extendscript": "https://github.com/kirgene/babel-preset-extendscript",
     "cep-interface": "^0.6.0",
     "cep-packager": "0.0.28",
     "concurrently": "^6.0.0",
